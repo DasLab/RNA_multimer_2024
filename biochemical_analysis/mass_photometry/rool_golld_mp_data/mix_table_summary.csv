@@ -1,0 +1,11 @@
+ROOL_amount,GOLLD_amount,Measurement Name,GOLLD gaussian mean (nt),GOLLD gaussian sigma (nt),GOLLD absolute count,GOLLD gaussian skewness,ROOL gaussian mean (nt),ROOL gaussian sigma (nt),ROOL absolute count,ROOL gaussian skewness,Binding Counts,Unbinding Counts,GOLLD_percent_total,ROOL_percent_total,GOLLD_percent_labeled,ROOL_percent_labeled
+1,0,051_sample38-10x,,,,,5204,437,9260,-0.406,22687,207,0.00,0.41,0.00,1.00
+1,0,005_rool120-10ulbuffer-2ulblack-2weeks,,,,,5307,834,37203,-0.134,45075,748,0.00,0.83,0.00,1.00
+0.75,0.25,011_rool120-75-gollda-25-10ulbuffer-2ulbuffer,10590,1203,2642,-0.397,5125,481,14009,0.123,27492,2216,0.10,0.51,0.16,0.84
+0.75,0.25,012_rool120-75-gollda-25-10ulbuffer-2ulbuffer-try2,10704,1431,2848,0.754,4976,562,21203,-0.272,33796,10551,0.08,0.63,0.12,0.88
+0.5,0.5,007_rool120-gollda-10ulbuffer-2ulbuffer,11575,445,271,0,5378,296,2871,-0.035,22700,9735,0.01,0.13,0.09,0.91
+0.5,0.5,008_rool120-gollda-10ulbuffer-2ulbuffer_collect2,11234,1501,6928,0.404,5267,469,21399,-0.1,38839,3550,0.18,0.55,0.24,0.76
+0.25,0.75,009_rool120-25-gollda-75-10ulbuffer-2ulbuffer,9941,873,6748,-0.187,4755,481,7937,-0.487,27806,2308,0.24,0.29,0.46,0.54
+0.25,0.75,010_rool120-25-gollda-75-10ulbuffer-2ulbuffer-try2,9437,931,3393,0.235,4553,425,4291,0.15,21738,13146,0.16,0.20,0.44,0.56
+0,1,006_gollda-10ulbuffer-2ulblack-2weeks,11282,1138,8973,-0.416,,,,,25378,2542,0.35,0.00,1.00,0.00
+0,1,037_sample28--10x,10838,1315,4412,0.095,,,,,33510,1774,0.13,0.00,1.00,0.00
